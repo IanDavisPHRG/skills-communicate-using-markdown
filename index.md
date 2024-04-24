@@ -13,3 +13,10 @@ Just added all of this as a commit.
 
 
 Just added the image
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Added code
